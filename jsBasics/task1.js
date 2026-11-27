@@ -1,0 +1,10 @@
+let city = 'Kyiv';
+console.log(city);
+let age = 30;
+console.log(age);
+let boolean = true;
+console.log(boolean);
+let emptyValue = null;
+console.log(emptyValue);
+let undefinedValue = undefined;
+console.log(undefinedValue);
